@@ -1,7 +1,11 @@
-const App = () => {
+import { AppLayout } from "./components/layout/AppLayout";
+
+function App() {
   return (
-    <div>Music Stream App</div>
-  )
+    <>
+      <AppLayout></AppLayout>
+    </>
+  );
 }
 
-export default App
+export default App;
