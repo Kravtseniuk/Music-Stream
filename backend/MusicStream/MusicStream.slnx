@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MusicStream.Api/MusicStream.Api.csproj" />
+  <Project Path="MusicStream.DataAccess/MusicStream.DataAccess.csproj" />
+</Solution>
